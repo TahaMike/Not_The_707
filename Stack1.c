@@ -85,11 +85,8 @@ S[i]);
         }
     }   
 }
-//Thank you for watching : )flow");
     else {
         for(i=T; i>=0; i--) {
             printf("Item no.%d is %d",n,S[i]);
         }
 }
-
-//Now this file with ".c" extension..
